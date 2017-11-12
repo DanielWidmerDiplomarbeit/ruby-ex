@@ -239,10 +239,19 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to your Ruby application on OpenShift</h1>
+            <h1>Willkommen bei einer kleinen Arizon OpenShift Demo</h1>
+			
+			
+			
           </hgroup>
 
+		  
+		  
         <footer>
+		
+		
+		
+		
           <div class="logo"><a href="https://www.openshift.com/"></a></div>
         </footer>
 </section>
