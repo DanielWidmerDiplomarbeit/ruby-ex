@@ -238,25 +238,13 @@ pre {
 <body>
 
 <section class='container'>
-          <hgroup>
-            <h1>Willkommen bei einer kleinen Arizon OpenShift Demo</h1>
-			
-			
-			
-          </hgroup>
-
-		  
-		  
+        <hgroup>
+            <h1>Willkommen bei einer kleine Openshift Demo mit Ruby</h1>
+        </hgroup>
         <footer>
-		
-		
-		
-		
-          <div class="logo"><a href="https://www.openshift.com/"></a></div>
+	    <div class="logo"><a href="https://www.openshift.com/"></a></div>
         </footer>
 </section>
-
-
 </body>
 </html>
 WELCOME_CONTENTS
